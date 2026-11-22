@@ -1,5 +1,5 @@
 # Site
-repository: strike137/strike137.github.io
+repository: JongminLee-Security/jongminlee-security.github.io
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Content configuration version
@@ -20,7 +20,7 @@ darkmode: never
 
 # Social links
 googlescholar_username: 2dV4vDkAAAAJ
-github_username:  strike137
+github_username:  JongminLee-Security
  
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
@@ -236,7 +236,7 @@ content:
         additional_links:
          - title:  Github page for project
            icon: fab fa-github
-           url: https://github.com/strike137/Lattices-from-LDPC-codes
+           url: https://github.com/JongminLee-Security/Lattices-from-LDPC-codes
         quote: >
          Minor Research Project for Graduation at JAIST (November 2023 - August 2024)
         description: |
